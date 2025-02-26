@@ -1,0 +1,12 @@
+.bashrc
+.conda
+.ipython
+
+envs/
+pkg/
+
+.lock
+envs/BUBA/
+
+*.pyc
+*.env
